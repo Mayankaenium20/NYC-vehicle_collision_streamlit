@@ -6,7 +6,7 @@ Download the libs:
 
 numpy==1.16.4
 <br>
-pandas==0.24.2
-pydeck==0.3.0
-streamlit==0.57.3
-plotly==4.0.0
+pandas==0.24.2  <br>
+pydeck==0.3.0    <br>
+streamlit==0.57.3  <br>
+plotly==4.0.0  <br>
