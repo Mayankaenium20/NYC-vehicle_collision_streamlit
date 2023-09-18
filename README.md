@@ -2,8 +2,9 @@
 
 A simple Streamlit project to create a dashboard app for data science and machine learning applications without the need to implement conventional web frameworks.
 
-Download the libs: 
+Drive link for the dataset: https://drive.google.com/file/d/1kblnRJgYQbdEPL5N2czkvbfWitU7H84A/view?usp=sharing
 
+Download the libs: 
 numpy==1.16.4
 <br>
 pandas==0.24.2  <br>
